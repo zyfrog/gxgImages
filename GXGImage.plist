@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gxg.images</string>
+				<string>com.leozhang.KEYSDemo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>图片轮播</string>
+				<string>KEYSDemo</string>
 			</dict>
 		</dict>
 	</array>
